@@ -1,0 +1,28 @@
+
+<resources>
+    <string name="app_name">Listview_1</string>
+    <string-array name="test">
+        <item>Test 1</item>
+        <item>Test 2</item>
+        <item>Test 3</item>
+    </string-array>
+
+    <string-array name="drink">
+        <item>Drink 1</item>
+        <item>Drink 2</item>
+        <item>Drink 3</item>
+    </string-array>
+
+    <string-array name="food">
+        <item>Food 1</item>
+        <item>Food 2</item>
+        <item>Food 3</item>
+        <item>Food 4</item>
+        <item>Food 5</item>
+        <item>Food 6</item>
+        <item>Food 7</item>
+        <item>Food 8</item>
+    </string-array>
+
+
+</resources>
